@@ -1,7 +1,7 @@
 # Android PieChart
 Custom [MPAndroidChrt](https://github.com/PhilJay/MPAndroidChart) Piechart example
 
-Change the color of current selected item with custom hightlight color.
+Change the color of current selected item with custom highlight color.
 
 <img src="https://raw.githubusercontent.com/Jaosrikate/AndroidPieChart/master/screen/Screen%20Shot%202562-10-16%20at%2014.30.22.png" width="250">
 
