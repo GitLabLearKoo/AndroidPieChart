@@ -23,6 +23,8 @@ Features
 ## Custom highlight color
 Need to custom [MPAndroidChrt](https://github.com/PhilJay/MPAndroidChart) lib
 
+Because `com.github.PhilJay:MPAndroidChart:v3.1.0'` is not(yet) supported this feature :sob::sob::sob:
+
 Reference : https://github.com/PhilJay/MPAndroidChart/pull/3777/files
 
 Custom list:
